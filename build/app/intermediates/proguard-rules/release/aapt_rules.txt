@@ -1,0 +1,6 @@
+# Referenced at /Volumes/backup/projects/mobileProjects/flutterProject/FlickList/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Volumes/backup/projects/mobileProjects/flutterProject/FlickList/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class com.blaze.flicklist.MainActivity { <init>(); }
+# Referenced at /Volumes/backup/projects/mobileProjects/flutterProject/FlickList/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
