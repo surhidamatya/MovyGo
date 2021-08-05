@@ -1,4 +1,4 @@
-package com.blaze.flicklist
+package com.devbaucha.movygo
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
